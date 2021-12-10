@@ -1,9 +1,10 @@
 import './App.css';
+import Home from './Pages/Home/Home/Home';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to online venue booking system</h1>
+      <Home></Home>
     </div>
   );
 }

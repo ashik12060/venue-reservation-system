@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Moody Mansion",
+      "price": "200",
+      "description": "lorem",
+      "img": "https://i.ibb.co/0ndxTbJ/serving-wedding-table-in-vintage-style.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Blue Swan Palace",
+      "price": "200",
+      "description": "lorem",
+      "img": "https://i.ibb.co/mBP04LG/Beautiful-photozone-with-big-wreath-decorated-with-greenery-and-roses-in-centerpiece-candles-on-the.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Boulevard Hall ",
+      "price": "200",
+      "description": "lorem",
+      "img": "https://i.ibb.co/nw6kQDF/Gorgeous-Italian-hall-with-paintings-on-the-wall-and-prepared-for-wedding-dinner.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Crystal Palace",
+      "price": "200",
+      "description": "lorem15",
+      "img": "https://i.ibb.co/PxPCv98/2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Legendary Hall",
+      "price": "200",
+      "description": "lorem15",
+      "img": "https://i.ibb.co/wMpqGD1/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Biz Bash",
+      "price": "200",
+      "description": "lorem",
+      "img": "https://i.ibb.co/C26qnWF/6.jpg"
+    }
+  ]
