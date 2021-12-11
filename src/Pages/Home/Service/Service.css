@@ -1,9 +1,11 @@
 .service{
-    background-color: cadetblue;
+    background-color: #fceae8;
     border-radius: 20px;
     margin-left: 5px;
     margin-right: 5px;
 }
+
 .service img{
     width: 100%;
+    border-radius: 20px;
 }

@@ -15,8 +15,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Plaisterers' Hall</h3>
+                        <p>As London’s Largest Livery Hall we have plentiful space to accommodate a multiplicity of events</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -27,8 +27,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>Ironmongers' Hall</h3>
+                        <p>The home of the Ironmongers' Company in the heart of London, the Hall is available to hire for weddings</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -39,8 +39,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h3>Glaziers Hall</h3>
+                        <p>Glaziers’ Hall is the only Livery Hall south of the Thames.  Located at the south end of London Bridge it is a former dockside warehouse dating from the early 19th century. </p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
